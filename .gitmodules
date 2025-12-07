@@ -1,0 +1,3 @@
+[submodule "crypto/dependencies"]
+	path = crypto/dependencies
+	url = git@github.com:sos-git/IP_dependencies.git
